@@ -1,0 +1,15 @@
+{
+  "name": "exec-pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hello": "node scripts/hello.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node scripts/hello.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
